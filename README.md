@@ -61,10 +61,10 @@ python balancer.py
 After this any request you made to the load balancer will be proxied to one of the other severs according to the least connections algorithm.
 
 
-If you want an easy way to run multiple request in paraller you can run
+If you want an easy way to run multiple request in paraller you can run in a new terminal
 
 ```bash
-# Terminal 4
+# Terminal 5
 python run.py
 ```
 
